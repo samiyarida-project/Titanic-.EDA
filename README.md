@@ -1,4 +1,4 @@
-# Titanic-.EDA
+# Titanic-EDA
 # 🚢 Titanic Dataset - Simple EDA Project
 
 A simple Exploratory Data Analysis (EDA) project on the Titanic dataset to understand survival patterns of passengers using Python visualization libraries.
